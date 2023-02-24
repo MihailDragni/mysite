@@ -1,0 +1,61 @@
+// $tel: 375;
+// $phone: 578;
+// $tablet: 768;
+// $tablet-2: 992;
+// $desktop: 1230;
+// $desktop-2: 1440;
+
+// $white: #fff;
+// $blue: #0030d9;
+// $red: #d90000;
+// $black: #000000;
+
+// %inter {
+//   font-family: "Inter", Verdana, Geneva, Tahoma, sans-serif;
+// }
+// %roboto {
+//   font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+// }
+
+// %montserrat {
+//   font-family: "Montserrat", Verdana, Geneva, Tahoma, sans-serif;
+// }
+
+// .input-hidden {
+//   width: 1px;
+//   height: 1px;
+//   overflow: hidden;
+//   clip: rect(0 0 0 0);
+//   position: absolute;
+// }
+
+// overflow: scroll;
+// scrollbar-width: none;
+// &::-webkit-scrollbar {
+//   display: none;
+//   background: transparent;
+// }
+
+// svg path {
+//   fill: inherit;
+//   stroke: inherit;
+//   stroke-width: inherit;
+// }
+
+// padding: calc(30px + (155 - 30) * ((100vw - 360px) / (1440 - 360)))
+
+// let cur_width = $(window).width();
+// $(window).resize(function () {
+//   if ($(window).width() <= 768 && cur_width > 768) {
+//     location.reload();
+//   } else if ($(window).width() > 768 && cur_width <= 768) {
+//     location.reload();
+//   }
+// });
+
+// if (window.matchMedia("(max-width: 768px)").matches)
+
+// <button class="burger" type="button"> 
+//  <span class="burger__line"></span> 
+//  <span class="sr-only">Открыть меню</span> 
+// </button>
